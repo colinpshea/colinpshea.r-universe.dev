@@ -1,6 +1,4 @@
 [
-  {
-    "package": "GLAMMGoF",
-    "url": "https://github.com/colinpshea/GLAMMGoF"
-  }
+  { "package": "GLAMMGoF", "url": "https://github.com/colinpshea/GLAMMGoF" },
+  { "package": "MatchMakeR", "url": "https://github.com/colinpshea/MatchMakeR" }
 ]
